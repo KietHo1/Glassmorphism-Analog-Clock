@@ -1,6 +1,6 @@
 import "./App.css";
-import "./js/script.js";
-import "./style.css";
+import "./js/script";
+import logo from "./clock.jpeg";
 function App() {
   return (
     <div className="App">
@@ -20,10 +20,7 @@ function App() {
 
             <div class="clock">
               <div class="clock-bg">
-                <img
-                  src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxeOUbsk58Fib526Qn-s9ld1TWxd7XGV_tYu6gB0qABUrLSlvN"
-                  alt="..."
-                />
+                <img src={logo} alt="..." />
               </div>
               <div class="hour">
                 <span class="hr" id="hr"></span>

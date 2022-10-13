@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 Link Youtube: https://www.youtube.com/watch?v=LHY1fg__UBU&t=9s
-Right Click on index.html, choose "Open With Live Server" or cd src, npm start.
+Right Click on index.html, choose "Open With Live Server"
