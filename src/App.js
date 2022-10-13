@@ -18,7 +18,7 @@ function App() {
             <div class="clock">
               <div class="clock-bg">
                 <link
-                  rel="icon"
+                  rel="img"
                   href="https://github.com/KietHo1/Glassmorphism-Analog-Clock/blob/96578a47c04add1494749dffde67d5bd66daade1/src/clock.jpeg"
                   alt="..."
                 />
