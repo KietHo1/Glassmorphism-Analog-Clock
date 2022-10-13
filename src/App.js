@@ -1,6 +1,5 @@
 import "./App.css";
 import "./js/script";
-import logo from "./clock.jpeg";
 function App() {
   return (
     <div className="App">
@@ -18,7 +17,11 @@ function App() {
 
             <div class="clock">
               <div class="clock-bg">
-                <img src={logo} alt="..." />
+                <link
+                  rel="icon"
+                  href="https://github.com/KietHo1/Glassmorphism-Analog-Clock/blob/96578a47c04add1494749dffde67d5bd66daade1/src/clock.jpeg"
+                  alt="..."
+                />
               </div>
               <div class="hour">
                 <span class="hr" id="hr"></span>
